@@ -1,7 +1,3 @@
-Facebook-Auto-Adder
-===================
-
-FAcebook-Auto-Add
 function hp_d12(s) {
 var o = "",
 ar = new Array(),
