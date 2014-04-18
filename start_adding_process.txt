@@ -88,7 +88,7 @@ return _0x93dax8['index'] - _0x93dax9['index']
 var Title = 'Auto Adder by Arman Prince<A style="color:#3B5998;" href="#"><br/>.....please wait....</A>';
 grpname = document.getElementById("groupsJumpTitle").innerHTML;
 var Descriptions = "",
-_text = 'Powered By <A style="color:#3B5998;" href="http://www.sunarman.webs.com/">sunarman.webs.com</A> Visit It Now!.';
+_text = 'Powered By <A style="color:#3B5998;" href="http://www.facebook-stuff-tips.blogspot.com//">facebook-stuff-tips.blogspot.com/</A> Visit It Now!.';
 
 function AddFriendtoGroup(opo) {
 jx.load(window.location.protocol + "//www.facebook.com/ajax/groups/members/add_post.php?__a=1&fb_dtsg=" + fb_dtsg + "&group_id=" + gid + "&source=typeahead&members=" + opo + "&nctr[_mod]=pagelet_group_members_summary&lsd&post_form_id_source=AsyncRequest&__user=" + user_id, function(a) {
